@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        /** this is a programm suggesting a name for a group of thiefs **/
+        /** this is a programm suggesting a name for a group of thiefs
+         * @author George Maysuradze
+         * @version 1.0 **/
         System.out.print("Hello ");
         System.out.println("World!");
 
